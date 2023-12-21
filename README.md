@@ -16,5 +16,8 @@ SK텔레콤 인공지능 관련 서비스/제품(A.(에이닷), NUGU 등)을 활
 현재 보유 중인 옷, 체형, 계절, TPO, 분위기, 취향, 퍼스널 컬러를 고려하여 인공지능이 코디 제안<br/>
 코디를 본인의 정보가 반영된 아바타 혹은 AR을 사용하여 가상피팅 할 수 있음
 
+## 🔗기획 노션 자료
+https://www.notion.so/MODA-OPTI-2-86ab74098ade40339ddeede31ff9d982?pvs=4
+
 ## ⚙️TOOL
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><br/><img src="https://img.shields.io/badge/beautifulsoup4-0099E5?style=for-the-badge&logo=beautifulsoup4r&logoColor=white"><img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white"><img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/Tkinter-40AEF0?style=for-the-badge&logo=Tkinter&logoColor=white">
